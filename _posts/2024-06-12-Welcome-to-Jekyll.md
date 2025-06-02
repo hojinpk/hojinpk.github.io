@@ -7,15 +7,12 @@ author_profile: false
 sidebar:
     nav: "docs"
 ---
-
 **[Notice]** [Open my personal blog in GitHub](https://hojinpk.github.io/)
 {: .notice--primary}
-
 # My Nest
 I have decided to use GitHub Pages as my first blog from now on because it supports markdown grammar basically. The following video clip is for a sort of hello world that a newbie is looking for when they start to learn something; [https://www.youtube.com/watch?v=ACzFIAOsfpM](https://www.youtube.com/watch?v=ACzFIAOsfpM)
 
 `minimal-mistakes` that I have chose in [https://github.com/topics/jekyll-theme](https://github.com/topics/jekyll-theme) is my theme of the blog. As for the basic grammar of Jekyll, you can refer to the web site [https://jekyllrb.com/docs/posts/](https://jekyllrb.com/docs/posts/)
-
 ## Local Hosting Blog
 Whenever there is changes in the blog, we can see the latest one after submitting changes in local to master in the public GitHub repository. It's tedious job for me at least. There is an alternative way to check it by installing Jekyll and its bundlers. 
 
